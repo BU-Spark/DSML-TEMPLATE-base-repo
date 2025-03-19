@@ -43,7 +43,7 @@ $ git clone [repo link]
 
 Create a new branch from dev, add changes on the new branch you just created.
 
-You will want to look into [git branch](https://git-scm.com/docs/git-branch) and [git checkout](https://git-scm.com/docs/git-checkout)
+You will want to look into [git branch](https://git-scm.com/docs/git-branch){:target="_blank"} and [git checkout](https://git-scm.com/docs/git-checkout){:target="_blank"}
 
 ```bash
 # Create and Checkout a new branch if it doesn't exist

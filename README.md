@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.bu.edu/spark/"><img src="https://www.bu.edu/spark/files/2023/08/logo.png" alt="BUSpark" width="200"></a>
+  <a href="https://www.bu.edu/spark/" target="_blank"><img src="https://www.bu.edu/spark/files/2023/08/logo.png" alt="BUSpark" width="200"></a>
   <br>
   Project README Template <change to project name>
   <br>
@@ -30,7 +30,7 @@
  
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com)
+To clone and run this application, you'll need <a href="https://git-scm.com" target="_blank">Git</a>
 From your command line:
 
 ```bash
